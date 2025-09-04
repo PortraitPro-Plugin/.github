@@ -32,7 +32,8 @@ PortraitPro is an **AI-driven portrait editor** that automates complex retouchin
 * **Hair Editing:** Add shine, recolor, and smooth frizz.
 * **Batch Processing:** Retouch multiple images simultaneously.
 <img width="1543" height="892" alt="image" src="https://github.com/user-attachments/assets/020167f1-f275-45e5-a011-930344d5a3cf" />
-<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/8219dd7d-0da9-4b9b-9a97-4f6cdd5d3269" />
+<img width="1134" height="638" alt="image" src="https://github.com/user-attachments/assets/2bd83f0b-f697-4f78-8b49-7af4e7e75ad1" />
+
 
 ---
 
